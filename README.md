@@ -1,2 +1,2 @@
 # Dye-sensitized solar cell
- Organic Solar Cell
+ Organic Solar Cell as school Project
